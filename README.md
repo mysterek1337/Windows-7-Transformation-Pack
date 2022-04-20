@@ -18,8 +18,7 @@ Requirements for installing:
 **Atleast 350 MB of Disk Space
 Atleast 256 MB of RAM
 Atleast 1 free thread [1.0 GHz+]
-256 KB/s+ Connection to Wi-Fi
-**
+256 KB/s+ Connection to Wi-Fi**
 
 Version: 1.0
 
