@@ -9,6 +9,7 @@ Windows Defender,
 Windows Update,
 Some core files of Windows 7 updated,
 Your computer will be recognisable as Windows 10,
+Boot animation,
 Microsoft Store**
 
 Installing:
